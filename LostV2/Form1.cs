@@ -225,7 +225,7 @@ namespace LostV2
                     this.BackgroundImage = (Properties.Resources.water);
                     break;
                 case 10:
-                    outputLabel.Text = "You fall asleep and are eaten by crabs. Play again?";
+                    outputLabel.Text = "You fall asleep and are eaten by crabs. Play again?"; 
                     redLabel.Text = "Yes.";
                     blueLabel.Text = "No.";
                     greenLabel.Text = "";
